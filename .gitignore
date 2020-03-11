@@ -1,0 +1,16 @@
+/node_modules
+/public/storage
+
+Homestead.yaml
+Homestead.json
+
+ .idea/workspace.xml
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+.project
+    
+Todo.rtf
+.vagrant

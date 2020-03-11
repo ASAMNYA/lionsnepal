@@ -1,0 +1,87 @@
+Return-Path: <gmail-noreply@google.com>
+Delivered-To: umesh@vsumtech.com
+Received: from altar26.supremepanel26.com
+	by altar26.supremepanel26.com with LMTP id sKF+KmmhGlonPgcAK9SS9Q
+	for <umesh@vsumtech.com>; Sun, 26 Nov 2017 11:11:37 +0000
+Return-path: <gmail-noreply@google.com>
+Envelope-to: umesh@vsumtech.com
+Delivery-date: Sun, 26 Nov 2017 11:11:37 +0000
+Received: from mail-it0-f52.google.com ([209.85.214.52]:46354)
+	by altar26.supremepanel26.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <gmail-noreply@google.com>)
+	id 1eIuqX-001zWx-Kf
+	for umesh@vsumtech.com; Sun, 26 Nov 2017 11:11:37 +0000
+Received: by mail-it0-f52.google.com with SMTP id t1so530817ite.5
+        for <umesh@vsumtech.com>; Sun, 26 Nov 2017 03:11:17 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20161025;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=twSPp92fG5zZ9Jc6nGKq6MNGMB+TIfKqGnbLPVsXLjE=;
+        b=vzlULKshCcwQ0ChpFijl0GZusXx26iAboQFkz4ATrnuuOQpsqKdpurP5y/BJaFzjTO
+         fvQ5LtyJvvWcYv3ql5uGRTWoMGUX99d+p5gjt9IUSwHy8o00bxy8DZ0OpdANUsY4tltC
+         ULiCR/rP9kg6aomn7L6RX/ilVrvAkF3IX3W5joT5+S2AmO4QWEJr+IQp+kdEEXm2Tonp
+         oPl7C70Xt25cjHhabMB8yt+LDXDwb9oYz+mLdL1Glk30VzKDNMfuF8ocyY5/xt7l/OZ/
+         ENQM3ogbIPx6FRWexP3A1njV46JC0/kOhxDAJikY7njtb6RER67JdpSAezt8I/jfOjxe
+         YBTQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=twSPp92fG5zZ9Jc6nGKq6MNGMB+TIfKqGnbLPVsXLjE=;
+        b=XPLeZIbTgFiwUkAUs7rmLrZgCzE53wddzUuXkSSg+XekYGPmvbQ0WJktvy2vGd6z4x
+         WMIc3JhANDCnMlz5z5e3BgJPAnhRWNStvrniPmbeGSFijlPCZScglunyqZ4H/7fgJ+YH
+         IRf3tHnHr4gdYVLEDiaLwlkomzy/QH6+HxYw38NvovDvs0ZdjoAKK/iEj3witIn/sHCr
+         2DsP8t5J72tciWE2hAYZmFJULE5c3cee7rh2r+q0OoAoaIZqG5z0C+3xfJlWWenB5mh9
+         NvY4A+ghRSfC6JosoEknlOr4Y+/jAeIvchsi3LjH00cMMwFBwhtpaHB7+xrJihDRwB6x
+         sbBA==
+X-Gm-Message-State: AJaThX4kK4bqabHYnjug6aqp6prlJie6H9WA1/0yEe8u0eW3HuL6uXdC
+	oHh+48L0SXwEC41itaUdDs2pCzJtblFVrvJBEgT0QN1g0oyeJQ==
+X-Google-Smtp-Source: AGs4zMa+A7xr0PO1Izxx46qZeQHz8e3RO6ugSnZ+rjRWs9TUAG2pPhi96x/giYhFoYsj8TE5tu404In2G8AWMtNdf0vsuNpsOIoZMg==
+MIME-Version: 1.0
+X-Received: by 10.36.250.8 with SMTP id v8mr24101304ith.128.1511694656753;
+ Sun, 26 Nov 2017 03:10:56 -0800 (PST)
+X-Google-Address-Confirmation: AjxO8wiQy3RunGRYuox3EawzVqs
+Date: Sun, 26 Nov 2017 16:55:56 +0545
+Message-ID: <CAE8ugtd5P0gD7e2WaQ3zidZFGgbioaJyeDbNikfcnqvnmdLLFQ@mail.gmail.com>
+Subject: Gmail Confirmation - Send Mail as umesh@vsumtech.com
+From: Gmail Team <gmail-noreply@google.com>
+To: umesh@vsumtech.com
+Content-Type: text/plain; charset="UTF-8"
+
+You have requested to add umesh@vsumtech.com to your Gmail account.
+Confirmation code: 582756262
+
+Before you can send mail from umesh@vsumtech.com using your Gmail
+account (achrymsh@gmail.com), please click the link below to confirm your
+request:
+
+https://mail.google.com/mail/f-%5BANGjdJ_uFOK07OAf2LMktT3U9WxADFxbJdX1DS2wH0ZWcOc2iT_GjHX_ER_zMI__4g968fWQKoITHnG4Mogm%5D-DDOuODJsQ_DmlOO9a3TbXN15JnA
+
+If you click the link and it appears to be broken, please copy and paste it
+into a new browser window. If you aren't able to access the link, please log in
+to your Gmail account, and click 'Settings' at the top of any page.
+Open the 'Accounts' tab, and locate the email address you'd like to add in the
+'Send mail as:' section. Then, click 'Verify,' and enter your confirmation
+code: 582756262
+
+Thanks for using Gmail!
+
+Sincerely,
+
+The Gmail Team
+
+If you did not make this request, or you don't want to add this email address
+to your Gmail account, no further action is required.
+achrymsh@gmail.com cannot send messages using your email address unless you
+confirm the request by clicking the link above. If you accidentally clicked
+the link, but you do not want to allow achrymsh@gmail.com to send messages
+using your address, click this link to cancel this verification:
+https://mail.google.com/mail/g-%5BANGjdJ-YevTukuWO_qnjYLUrLCw-RYtLFXVUFkY0wsebN9ss3YMXziKJfeN-j5YVdpUXELw-a7ydJ9HSqbRR%5D-DDOuODJsQ_DmlOO9a3TbXN15JnA
+
+To learn more about why you might have received this message, please
+visit: http://support.google.com/mail/bin/answer.py?answer=184973.
+
+Please do not respond to this message. If you'd like to contact the
+Gmail Team, please log in to your account and click 'Help' at
+the top of any page. Then, click 'Contact Us' along the bottom of the
+Help Center.
